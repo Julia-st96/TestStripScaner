@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyCamera</string>
+    <string name="url">https://juliast96.pythonanywhere.com</string>
+    <string name="camera_request_rationale">Программе нужен доступ к камере</string>
+    <string name="write_external_starage_request_rationale">Программе нужен доступ к хранилищу</string>
+    <string name="please_wait">Пожалуйста, подождите ...</string>
+    <string name="image_not_selected">Не было выбрано изображение</string>
+    <string name="smth_is_wrong">Что-то пошло не так</string>
+</resources>
